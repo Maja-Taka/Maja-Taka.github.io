@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      The Linked-Graph App
-subtitle:   The very first introduce of the Linked-Graph App
+title:      The Objects Wall App
+subtitle:   The very first introduce of the Objects Wall App
 date:       2018-01-12
 author:     Maja
 header-img: img/post-bg-desk.jpg
