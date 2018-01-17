@@ -2,7 +2,7 @@
 layout:     post
 title:      The Cards Learning App
 subtitle:   The very first introduce of the Cards Learning App
-date:       2018-01-12
+date:       2018-01-17
 author:     Maja
 header-img: img/post-bg-ioses.jpg
 catalog: true
